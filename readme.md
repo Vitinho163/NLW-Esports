@@ -28,4 +28,4 @@ Nesse projeto utilizei:
 - Além da parte de networking, onde usuários poderiam adiconar seus perfis para que pudessem ser encontrados nas redes sociais.
 
 
-###### :pushpin: Você pode acessa-lo através desse <a href='https://Vitinho163.github.io/NLW-Esports/'>Link!</a>
+###### :pushpin: Você pode acessa-lo através desse <a href='https://vitinho163.github.io/NLW-Esports/'>Link!</a>

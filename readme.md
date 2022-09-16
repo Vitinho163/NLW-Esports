@@ -5,6 +5,8 @@
   <img alt="Logo" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/630ced17a99fbd99b6169b52_Logo-NLW-eSports.svg" width="25%">
 </h2>
 
+![preview](./.github/preview.png)
+
 ## :man_artist: Autor
 - **[João Victor](https://github.com/Vitinho163)**
 
